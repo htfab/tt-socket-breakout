@@ -1,4 +1,4 @@
-23129407423548777
+23134551529618785
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87744,6 +87744,27 @@ stitching via
 0
 1
 1
+Socket
+TT_logo
+TinyTapeout Logo
+
+0
+0
+0
+Socket
+ef_logo
+efabless.com logo
+
+0
+0
+0
+Socket
+ef_logo_graphical
+efabless graphical logo
+
+0
+0
+0
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
