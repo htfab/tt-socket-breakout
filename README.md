@@ -1,6 +1,6 @@
-# TinyTapeout QFN64 socket adapter (TT04+)
+# Tiny Tapeout QFN64 socket adapter (TT04+)
 
-For testing TinyTapeout chips not yet soldered to a breakout board.<br />
+For testing Tiny Tapeout chips not yet soldered to a breakout board.<br />
 Based on the [TT04 QFN breakout board](https://github.com/TinyTapeout/breakout-pcb) by Pat Deegan.
 
 <img src="images/front.png" alt="" width="300px" />&emsp;
